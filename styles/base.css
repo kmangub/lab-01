@@ -1,0 +1,36 @@
+
+body {
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  margin: auto;
+  display: block;
+  overflow: auto;
+  width: 480px;
+  
+}
+  
+#section-1, #section-2, #c, #d, #e, #f, #g, #h, footer {
+outline: solid .5px darkblue;
+}
+
+@media only screen and (min-width: 768px) {
+  
+  body {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    padding-bottom: 50%;
+    margin: auto;
+    display: block;
+    overflow: auto;
+    width: 960px;
+  }
+
+
+}
+
+

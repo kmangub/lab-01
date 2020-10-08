@@ -1,0 +1,111 @@
+header {
+
+  background-color: lightcoral;
+}
+
+
+nav {
+
+  background-color: lightgreen;
+
+}
+
+#c{
+ 
+  background-color: lightskyblue;
+
+}
+
+#d{
+
+  background-color: bisque;
+
+}
+
+
+#e {
+
+  background-color: plum;
+
+}
+
+#f{
+  
+  background-color: lightseagreen;
+
+}
+
+#g{
+ 
+  background-color:orange;
+ 
+}
+
+#h{
+
+  background-color: lightslategray;
+
+}
+
+footer{
+
+  background-color: lime;
+
+}
+
+@media only screen and (min-width:769px) {
+  header {
+
+    background-color: coral;
+  }
+  
+  
+  nav {
+  
+    background-color: green;
+  
+  }
+  
+  #c{
+   
+    background-color: skyblue;
+  
+  }
+  
+  #d{
+  
+    background-color: brown;
+  
+  }
+  
+  
+  #e{
+  
+    background-color: pink;
+  
+  }
+  
+  #f {
+    
+    background-color: teal;
+  
+  }
+  
+  #g {
+   
+    background-color: orangered;
+   
+  }
+  
+  #h {
+  
+    background-color: gray;
+  
+  }
+  
+  footer{
+  
+    background-color: darkgreen;
+  
+  }
+}
